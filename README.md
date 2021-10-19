@@ -8,7 +8,7 @@ RNA-seq, CUT&RUN-seq and HiC-seq are deposited in GEO under the accession number
 UCSC genome browser view of all the processed data can be found [here](https://genome.ucsc.edu/s/tarelahu/Tcm).
 Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/Tcm_trackhub_single.txt)
 
-### processed files
+### processed files (genome version: mm10)
 #### ATAC/ChIP-seq peak files in bigBed format:
 [TCF1 peaks in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8_TcmRestWT_TCF1_peaks.bb)<br />
 [WT prepotent chrAcc sites (A1looseB4)](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/diffATACpeaks/A1looseB4_peaks.bb)<br />
