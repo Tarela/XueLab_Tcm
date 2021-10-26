@@ -20,9 +20,3 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 [ATAC signal in WT Stim](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmStim_ctrl_ATAC.bw)<br />
 [ATAC signal in Tcf1ko Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_Tcf1ko_ATAC.bw)<br />
 [ATAC signal in Tcf1ko Stim](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmStim_Tcf1ko_ATAC.bw)<br />
-
-
-
-# CD8 Tex
-## Ectopic Tcf1 expression instills a stem-like program in exhausted CD8+ T cells to enhance viral and tumor immunity
-Exhausted CD8+ T (Tex) cells are dysfunctional due to persisting antigen exposure in chronic viral infection and tumor. A stem cell-like Tex (Tex-stem) subset can self-renew and differentiate to terminally exhausted (Tex-term) cells. Here we show ectopic Tcf1 expression potently promoted generation of Tex-stem cells in both chronic viral infection and preclinical tumor models. Tcf1 overexpression diminished co-inhibitory receptor expression and improved polycytokine-producing capacity while preserving heightened responses to checkpoint blockade, leading to enhanced viral and tumor control. Mechanistically, ectopically expressed Tcf1 exploited existing and novel chromatin accessibility sites as transcriptional enhancers or repressors, and modulated the transcriptome by enforcing pre-existing expression patterns in Tex-stem cells, such as further suppression of Blimp1 and Bim, and acquiring new downstream genes including Mx1, Tox2 and Runx3. These findings reveal pronounced impact of ectopic Tcf1 expression on Tex functional restoration and highlight a therapeutic potential for harnessing Tcf1-enforced transcriptional program.
