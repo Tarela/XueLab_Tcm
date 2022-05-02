@@ -4,6 +4,7 @@ The mechanisms underlying heightened protection by CD8+ central memory T (Tcm) c
 
 ![GitHub Logo](Tcm.png)
 ### paper & data accession
+Pubmed link/accession of the paper [PMID 35190717](https://pubmed.ncbi.nlm.nih.gov/35190717/) 
 RNA-seq, CUT&RUN-seq and HiC-seq are deposited in GEO under the accession number [GSE177064](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE177064)
 ### UCSC genome browser session
 UCSC genome browser view of all the processed data can be found [here](https://genome.ucsc.edu/s/tarelahu/Tcm).
