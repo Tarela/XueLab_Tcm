@@ -15,12 +15,12 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 [TCF1 peaks in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8_TcmRestWT_TCF1_peaks.bb)<br />
 [WT prepotent chrAcc sites (A1looseB4)](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/diffATACpeaks/A1looseB4_peaks.bb)<br />
 
-#### ATAC/ChIP-seq signal tracks in bigWig format:
+#### normalized ATAC/ChIP-seq signal tracks in bigWig format:
 [TCF1 signal in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_ctrl_TCF1.bw)<br />
-[normalized ATAC signal in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_ctrl_ATAC.bw)<br />
-[normalized ATAC signal in WT Stim](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmStim_ctrl_ATAC_LMnorm.bw)<br />
-[normalized ATAC signal in Tcf1ko Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_Tcf1ko_ATAC_LMnorm.bw)<br />
-[normalized ATAC signal in Tcf1ko Stim](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmStim_Tcf1ko_ATAC_LMnorm.bw)<br />
+[ATAC signal in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_ctrl_ATAC.bw)<br />
+[ATAC signal in WT Stim](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmStim_ctrl_ATAC_LMnorm.bw)<br />
+[ATAC signal in Tcf1ko Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_Tcf1ko_ATAC_LMnorm.bw)<br />
+[ATAC signal in Tcf1ko Stim](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmStim_Tcf1ko_ATAC_LMnorm.bw)<br />
 
 <br /><br />
 # CD8 Teff
@@ -31,10 +31,22 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 
 ### processed files (genome version: mm10)
 #### ATAC/ChIP-seq peak files in bigBed format:
-[TCF1 peaks in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8_TcmRestWT_TCF1_peaks.bb)<br />
-[WT prepotent chrAcc sites (A1looseB4)](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/diffATACpeaks/A1looseB4_peaks.bb)<br />
+[merged chrAcc sites](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/CD8Teff_ATAC_mergePeak_peaks.bb)<br />
+<br />
+[differential ChIP sites group1](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_g1_peaks.bb)<br />
+[differential ChIP sites group2](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_g2_peaks.bb)<br />
+[differential ChIP sites group3](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_g3_peaks.bb)<br />
+[differential ChIP sites group4](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_g4_peaks.bb)<br />
+<br />
+[differential ATAC sites cluster1](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c1_peaks.bb)<br />
+[differential ATAC sites cluster2](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c2_peaks.bb)<br />
+[differential ATAC sites cluster3](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c3_peaks.bb)<br />
+[differential ATAC sites cluster4](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c4_peaks.bb)<br />
+[differential ATAC sites cluster5](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c5_peaks.bb)<br />
+[differential ATAC sites cluster6](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c6_peaks.bb)<br />
+[differential ATAC sites cluster7](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c7_peaks.bb)<br />
 
-#### ATAC/ChIP-seq signal tracks in bigWig format:
+#### normalized ATAC/ChIP-seq signal tracks in bigWig format:
 [TCF1 signal in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_ctrl_TCF1.bw)<br />
 
 
