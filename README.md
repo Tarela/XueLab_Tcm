@@ -27,7 +27,7 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 ## Molecular mechanism of RUNX3 and TBET in effector CD8+ T cells
 ### UCSC genome browser session
 UCSC genome browser view of all the processed data can be found [here](https://genome.ucsc.edu/s/tarelahu/Teff).
-Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/Tcm_trackhub_single.txt)
+Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/Teff_trackhub_single.txt)
 
 ### processed files (genome version: mm10)
 #### ATAC/ChIP-seq peak files in bigBed format:
@@ -47,7 +47,15 @@ Trackhub file can be found [here](https://data.cyverse.org/dav-anon/iplant/home/
 [differential ATAC sites cluster7](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/diffChIP_clustering_c7_peaks.bb)<br />
 
 #### normalized ATAC/ChIP-seq signal tracks in bigWig format:
-[TCF1 signal in WT Rest](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Tcm/CD8TcmRest_ctrl_TCF1.bw)<br />
+[ATAC signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teff_ctrl_ATAC.bw)<br />
+[ATAC signal in Runx3 ko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teff_Runx3ko_ATAC_LMnorm.bw)<br />
+[ATAC signal in Tbet ko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teff_Tbetko_ATAC_LMnorm.bw)<br />
+[ATAC signal in Runx3 Tbet dko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teff_Runx3Tbetko_ATAC_LMnorm.bw)<br />
+<br />
+[RUNX3 ChIP signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teff_ctrl_RUNX3.bw)<br />
+[RUNX3 ChIP signal in Tbet ko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teff_Tbetko_RUNX3_LMnorm.bw)<br />
+[TBET ChIP signal in WT](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teffd6_ctrl_TBET.bw)<br />
+[TBET ChIP signal in Runx3 ko](https://data.cyverse.org/dav-anon/iplant/home/tarela/trackhub/Teff/LMnormBW/CD8Teffd6_Runx3ko_TBET_LMnorm.bw)<br />
 
 
 
